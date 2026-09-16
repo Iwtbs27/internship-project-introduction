@@ -4,7 +4,7 @@
 
 | 项目 | 材料 | 重点 |
 | --- | --- | --- |
-| 简历 | [Ver9.pdf](./Ver9.pdf) | 简历内容 |
+| 简历 | [吕辉煌-个人简历.pdf](./吕辉煌-个人简历.pdf) | 简历内容 |
 | MetaGPT 上下文压缩 | [自适应压缩机制](./PPT-MetaGPT/PPT-MetaGPT上下文压缩/吕辉煌：自适应压缩机制-PPT.pptx) | 长上下文场景下的自适应压缩机制 |
 | MetaGPT 归因 Agent | [归因 Agent](./PPT-MetaGPT/PPT-MetaGPT归因Agent/吕辉煌：归因Agent-PPT.pptx) | Agent 归因分析与可解释性 |
 | VeriSearch | [VeriSearch](./PPT-VeriSearch/吕辉煌：VeriSearch-PPT.pptx) | 结果验证与检索质量 |
